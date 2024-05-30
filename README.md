@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Software Engineer, and Machine Learning Researcher 
 -----------------------------------------------------------------------
 
-I recently graduated with a degree in Computer Science from Towson University in May 2024 and will be returning for my Masters in Computer Science with a track in Data Science in the Fall 2024. I have a strong foundation in web development, software engineering, and machine learning. I am committed to continuous learning and hands-on experimentation.
+I recently graduated with a degree in Computer Science from Towson University in May 2024 and will be returning for my Masters in Computer Science with a concentration in Data Science in the Fall 2024. I have a strong foundation in web development, software engineering, and machine learning. I am committed to continuous learning and hands-on experimentation.
 
 * ✉️  You can contact me at [andres@surgepointsoftware.com](mailto:andres@surgepointsoftware.com)
 
