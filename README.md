@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Software Engineer, and Machine Learning Researcher 
 -----------------------------------------------------------------------
 
-I recently graduated with a degree in Computer Science from Towson University in May 2024 and will be returning for my Masters with a concentration in Data Science in the Fall 2024. I have a strong foundation in web development, software engineering, machine learning, and a pinch of graphic design. I am committed to continuous learning and hands-on experimentation.
+I am a Computer Science graduate student at Towson University, specializing in Data Science. I have a solid foundation in web development, software engineering, and machine learning, along with some experience in graphic design. I am committed to continuous learning and applying my skills in practical settings.
 
 ### Skills
 
